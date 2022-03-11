@@ -7,3 +7,5 @@ Hello I am Joe Su, I come from taiwan!
 final version after solve the conflict
 
 start the 2nd round!!
+
+edited by rebase branch
